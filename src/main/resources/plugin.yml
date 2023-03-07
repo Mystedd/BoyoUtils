@@ -1,0 +1,4 @@
+name: BoyoUtils
+version: '${project.version}'
+main: eu.boyoutils.BoyoUtils
+api-version: 1.19
